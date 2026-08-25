@@ -1,9 +1,9 @@
 # Hi, I'm Ryan Marc 👋
 
-I'm a BSIT student currently working on web development projects and my
+Currently working on my web development projects and my
 personal portfolio. I'm always willing to learn, socialize, and improve —
 open to collaborating with others and picking up new skills along the way.
-Feel free to ask me about PHP, MySQL, HTML, CSS, and XAMPP.
+
 
 ---
 
