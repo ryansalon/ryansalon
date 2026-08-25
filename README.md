@@ -48,7 +48,7 @@ zero-defect deployments.
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryansalon&layout=compact&hide_border=true&theme=default)
 
-![Contribution Streak](https://streak-stats.demolab.com/?user=ryansalon&hide_border=true)
+![Contribution Streak](https://streak-stats.demolab.com/?user=ryansalon&hide_border=true&v=2)
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ryansalon&show_icons=true&hide_border=true&count_private=true)
 
