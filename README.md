@@ -1,9 +1,9 @@
 # Hi, I'm Ryan Marc 👋
 
-I'm a **BSIT student** specializing in **architectural web systems** and
-high-precision digital tools. I bridge the gap between design and technical
-execution — turning real-world problems into clean, functional products with
-zero-defect deployments.
+I'm a BSIT student currently working on web development projects and my
+personal portfolio. I'm always willing to learn, socialize, and improve —
+open to collaborating with others and picking up new skills along the way.
+Feel free to ask me about PHP, MySQL, HTML, CSS, and XAMPP.
 
 ---
 
