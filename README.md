@@ -1,47 +1,51 @@
-# Hi, I'm Ryan 👋
+# Hi, I'm Ryan Marc 👋
 
-> IT Student | Aspiring Web Developer | Building software that matters
+> IT Student | Full-Stack Web Developer | Building software that matters
 
-I'm an Information Technology student passionate about **web development** and
-crafting **impactful software solutions** — from full-stack business websites
-to community-driven systems and AI-assisted tooling. I enjoy turning real-world
-problems into clean, functional products.
+I'm a **BSIT student** specializing in **architectural web systems** and
+high-precision digital tools. I bridge the gap between design and technical
+execution — turning real-world problems into clean, functional products with
+zero-defect deployments.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Backend
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter%204-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter%204-EF4223?style=flat&logo=codeigniter&logoColor=white)
 
-### AI & Tools
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![Cline](https://img.shields.io/badge/Cline-4B8BBE?style=flat&logo=visualstudiocode&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen%20Models-6F42C1?style=flat&logo=huggingface&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=apache&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-- **🏥 Smart Barangay Health Monitoring Kiosk**
-  IT capstone project designed for basic vital signs assessment and BMI computation.
-  🔗 [Repository](https://github.com/ryansalon/smart-barangay-health-kiosk)
-
-- **🏝️ IsleGo**
-  A software solution tailored and pitched to local MSMEs.
-  🔗 [Repository](https://github.com/ryansalon/islego)
+- **🗳️ Voting System**
+  A complete voting system built with PHP and MySQL.
+  🔗 [Live Demo](https://portfolioryanmarcsalon.netlify.app)
 
 - **🥐 Pacudan Bakeshop**
-  A business website built using React and CodeIgniter 4.
-  🔗 [Repository](https://github.com/ryansalon/pacudan-bakeshop)
+  An e-commerce website tailored for a local bakeshop.
+  🔗 [Live Demo](https://portfolioryanmarcsalon.netlify.app)
 
-- **🆘 ResQR**
-  A web application currently deployed for development testing.
-  🔗 [Repository](https://github.com/ryansalon/resqr)
+- **🏝️ Camiguin Tourism**
+  An interactive tourism web app built with Next.js and Leaflet.
+  🔗 [Live Demo](https://portfolioryanmarcsalon.netlify.app)
+
+> More projects are on the way — including my upcoming capstone project.
 
 ---
 
@@ -57,5 +61,6 @@ problems into clean, functional products.
 
 ## 📫 Connect With Me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2557D6?style=flat&logo=googlechrome&logoColor=white)](https://portfolioryanmarcsalon.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ryanmarcsalon04@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryansalon)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/rynn.merxx.56884)
