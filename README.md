@@ -1,7 +1,5 @@
 # Hi, I'm Ryan Marc 👋
 
-> IT Student | Full-Stack Web Developer | Building software that matters
-
 I'm a **BSIT student** specializing in **architectural web systems** and
 high-precision digital tools. I bridge the gap between design and technical
 execution — turning real-world problems into clean, functional products with
@@ -35,15 +33,12 @@ zero-defect deployments.
 
 - **🗳️ Voting System**
   A complete voting system built with PHP and MySQL.
-  🔗 [Live Demo](https://portfolioryanmarcsalon.netlify.app)
 
 - **🥐 Pacudan Bakeshop**
   An e-commerce website tailored for a local bakeshop.
-  🔗 [Live Demo](https://portfolioryanmarcsalon.netlify.app)
 
 - **🏝️ Camiguin Tourism**
   An interactive tourism web app built with Next.js and Leaflet.
-  🔗 [Live Demo](https://portfolioryanmarcsalon.netlify.app)
 
 > More projects are on the way — including my upcoming capstone project.
 
@@ -51,11 +46,11 @@ zero-defect deployments.
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansalon&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryansalon&layout=compact&hide_border=true&theme=default)
 
 ![Contribution Streak](https://streak-stats.demolab.com/?user=ryansalon&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryansalon&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ryansalon&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
