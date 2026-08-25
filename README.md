@@ -46,11 +46,11 @@ zero-defect deployments.
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ryansalon&layout=compact&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryansalon&layout=compact&hide_border=true&theme=default)
 
 ![Contribution Streak](https://streak-stats.demolab.com/?user=ryansalon&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ryansalon&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ryansalon&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
